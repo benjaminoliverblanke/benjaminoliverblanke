@@ -1,145 +1,172 @@
+<br clear="both">
+
 <div align="center">
-
-# Hi 👋, I'm Benjamin Oliver Blanke
-
-### Behind the code, there’s always a story.
-
-<img src="https://rbvisions.github.io/happyhtml/logo.png" alt="Benjamin Oliver Blanke" width="150" height="150" style="border-radius: 50%;" />
-
+  <img height="173" src="https://rbvisions.github.io/happyhtml/logo.png"  />
 </div>
 
-## 🚀 About Me
+###
 
+<h1 align="center">Hi, ich bin Benjamin</h1>
 
-Ich bin **Benjamin** – Entwickler & Geschichtenerzähler.  
-🎬 **Dein Leben als Filmszene** – Launch: 8. Dezember 2025.  
+###
 
-✨ Realität trifft Kino. Code trifft Magie.  
- *Dein Leben. Deine Szene. Dein Moment.*
+<h2 align="center"></h2>
 
+###
 
-## 💼 Current Work
+<h2 align="left">Über mich:</h2>
+
+###
+
+<p align="left">Ich bin Benjamin – Entwickler & Geschichtenerzähler.<br>🎬 Dein Leben als Filmszene – Launch: 8. Dezember 2025.<br><br>✨ Realität trifft Kino. Code trifft Magie.<br>Dein Leben. Deine Szene. Dein Moment.</p>
+
+###
+
+<h2 align="left">Daran arbeite ich gerade:</h2>
+
+###
+
+<p align="left">Gerade arbeite ich an Plot.Me</p>
+
+###
+
+<h2 align="left">Das habe ich umgesetzt:</h2>
+
+###
+
+<p align="left">Mein Portfolio:<br>https://benjaminoliverblanke.github.io/benjaminportfolio/<br><br><br>HappyHTML:<br>https://rbvisions.github.io/happyhtml/<br><br><br>MotionBox:<br>https://rbvisions.github.io/MotionBox/</p>
+
+###
+
+<h2 align="left">Kontakt & Links</h2>
+
+###
+
+<p align="left">Email: rbvisions@proton.me<br>Telefon: 015168444474</p>
+
+###
 
 <div align="left">
-
-- 🔭 I'm currently working on **Plot.Me**
-
+  <a href="https://youtube.com/@cocoskleinewelt" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://dev.to/@benjaminoliverblanke" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
+  </a>
 </div>
 
-## 📚 Learning & Knowledge
+###
+
+<h2 align="left">Random Fun Fact:</h2>
+
+###
+
+<p align="left">Wusstest du, dass der erste „Bug“ in einem Computer wortwörtlich ein echter Käfer war? 1947 entdeckten Ingenieure einen Mottenkäfer in der Mark II-Relay-Maschine der Harvard University – und so entstand der Begriff „Debugging“.</p>
+
+###
+
+<h2 align="left">Skills & Technik</h2>
+
+###
 
 <div align="left">
-
-- 🌱 I'm currently learning **C++**
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" height="40" alt="codepen logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/crystal/crystal-original.svg" height="40" alt="crystal logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
 
-## 🚀 Projects
+###
 
-| Project | Description | Links |
-|---|---|---|
-| Plot.Me | 🎬Dein Leben als Filmszene – Launch: 8. Dezember 2025.   |  |
-| PlayHTML | Ein sinnvoller Zeitvertreib... | [Live](https://rbvisions.github.io/playhtml/) / [GitHub](https://github.com/rbvisions/playhtml) |
+<h4 align="center">🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House</h4>
 
-### Plot.Me
-
-### PlayHTML
-
-## 📞 Contact & Links
-
-<div align="left">
-
-- 📫 How to reach me **rbvisions@proton.me**
-- 👨‍💻 All of my projects are available at [github.com/rbvisions](github.com/rbvisions)
-
-</div>
-
-## ⚡ Fun Fact
+###
 
 <div align="center">
-
-*Wusstest du, dass der erste „Bug“ in einem Computer wortwörtlich ein echter Käfer war?
-1947 entdeckten Ingenieure einen Mottenkäfer in der Mark II-Relay-Maschine der Harvard University – und so entstand der Begriff „Debugging“.*
-
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rbvisions.rbvisions&left_text=Besucher"  />
 </div>
 
-## 🌐 Connect with Me
+###
 
-<div align="center">
+<div align="center" style="width: 100%"></div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/benjaminoliverblanke)&nbsp;&nbsp;&nbsp;[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/https://dev.to/benjaminoliverblanke)
+###
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/benjaminoliverblanke/benjaminoliverblanke/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/benjaminoliverblanke/benjaminoliverblanke/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/benjaminoliverblanke/benjaminoliverblanke/output/pacman-contribution-graph.svg">
+</picture>
 
-## 🛠️ Skills & Technologies
-
-### 💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;&nbsp;&nbsp;![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;&nbsp;![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-
-### 💻 Frontend Development
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### 💻 Backend Development
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 💻 Mobile App Development
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### 💻 Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;&nbsp;&nbsp;![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### 💻 DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 💻 Backend as a Service (BaaS)
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;&nbsp;&nbsp;![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
-### 💻 Software
-
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)&nbsp;&nbsp;&nbsp;![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)&nbsp;&nbsp;&nbsp;![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)&nbsp;&nbsp;&nbsp;![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;&nbsp;&nbsp;![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### 💻 Game Engines
-
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)&nbsp;&nbsp;&nbsp;![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-### 💻 Automation
-
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-
-### 💻 Other
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;&nbsp;&nbsp;![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=benjaminoliverblanke&label=Profile%20Visitors&color=blueviolet&style=flat-square)
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=benjaminoliverblanke&theme=onedark&column=7&margin-w=15&margin-h=15)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benjaminoliverblanke&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-</div>
-
----
-
-<div align="center">
-
-### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-**Thank you for visiting my profile! 😊**
-
-![Profile Views](https://komarev.com/ghpvc/?username=benjaminoliverblanke&color=brightgreen&style=flat-square&label=Profile+Views)
-
-</div>
-
-
-![Snake Animation](https://benjaminoliverblanke.github.io/Snake-Animation/github-user-contribution.svg)
+###
