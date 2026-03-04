@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Ich bin Benjamin – Entwickler & Geschichtenerzähler.<br>🎬 Dein Leben als Filmszene – Launch: 8. Dezember 2025.<br><br>✨ Realität trifft Kino. Code trifft Magie.<br>Dein Leben. Deine Szene. Dein Moment.</p>
+<p align="left">Ich bin Benjamin – Entwickler.</p>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Gerade arbeite ich an Plot.Me</p>
+<p align="left">Gerade arbeite ich an ESP Think</p>
 
 ###
 
@@ -34,22 +34,22 @@
 
 ###
 
-<p align="left">Mein Portfolio:<br>https://benjaminoliverblanke.github.io/benjaminportfolio/<br><br><br>HappyHTML:<br>https://rbvisions.github.io/happyhtml/<br><br><br>MotionBox:<br>https://rbvisions.github.io/MotionBox/</p>
-
+<p align="left">Ruhha Camera
+HappyHTML
+CSSMotion
+Raspberry Pi Think
 ###
 
 <h2 align="left">Kontakt & Links</h2>
 
 ###
 
-<p align="left">Email: rbvisions@proton.me<br>Telefon: 015168444474</p>
+<p align="left">Email: be.blanke@protonmail.com<br>Telefon: 015168444474</p>
 
 ###
 
 <div align="left">
-  <a href="https://youtube.com/@cocoskleinewelt" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
+  
   <a href="https://dev.to/@benjaminoliverblanke" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
   </a>
